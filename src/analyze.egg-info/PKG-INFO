@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: analyze
+Version: 0.1
+Summary: library of functions for working with time series data
+Home-page: UNKNOWN
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: independant
+Requires-Python: >=3.6
+
+UNKNOWN
+

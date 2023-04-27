@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+setup.cfg
+src/analyze.egg-info/PKG-INFO
+src/analyze.egg-info/SOURCES.txt
+src/analyze.egg-info/dependency_links.txt
+src/analyze.egg-info/top_level.txt
